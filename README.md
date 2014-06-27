@@ -16,3 +16,6 @@ Como usar a tradução:
 
 Tradução e adaptação por Didi3D - Rio de Janeiro - Brasil !      
 tradução usada em http://clicke.me
+
+Translation and adaptation by Didi3D - Rio de Janeiro - Brazil! 
+used in translation http://clicke.me
