@@ -1,9 +1,8 @@
 YOURLS-pt_BR
 ============
 
-Tradução do YOURLS para pt_BR Português - Brasil
+Tradução para pt_BR Português - Brasil
 
-YOURLS Português Brasil
 
 PT: Tradução do YOURLS para Português do Brasil            
 EN: YOURLS Translation for Portuguese of Brazil
@@ -15,5 +14,5 @@ Como usar a tradução:
 
 (De https://github.com/YOURLS/YOURLS/wiki/YOURLS-in-your-language)
 
-Tradução por Didi3D - Rio de janeiro - Brasil !      
+Tradução e adaptação por Didi3D - Rio de Janeiro - Brasil !      
 tradução usada em http://clicke.me
